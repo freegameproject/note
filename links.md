@@ -19,3 +19,5 @@ http://www.bit-101.com/blog/?p=3233
 https://codepo8.github.io/canvas-images-and-pixels/
 
 https://developer.mozilla.org/en-US/docs/Web/API
+
+http://lh.fosss.org/index.php/gw/5-qsjs

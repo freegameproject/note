@@ -1,3 +1,4 @@
+```css
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation : portrait) {
      /*iPhone 6 Portrait*/
 }
@@ -24,3 +25,4 @@
 
 @media only screen and (max-device-width: 640px), only screen and (max-device-width: 667px), only screen and (max-width: 480px) and (orientation : landscape){
      /*iPhone 6 and iPhone 6+ landscape*/
+```
